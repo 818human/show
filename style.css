@@ -1,7 +1,8 @@
 body {
   text-align : center;
   background-color: #008080;
-  color: #4121f3; 
+  color: #4121f3;
+  font-family: 'Arvo', serif;
 }
 .main img {
   width : 70%;
